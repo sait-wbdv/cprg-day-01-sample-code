@@ -2,6 +2,13 @@
   color: blueviolet;
 }
 
+header {
+  text-align: center;
+  background-color: cornsilk;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
 section {
   margin: 12px;
   padding: 8px;
